@@ -1,6 +1,6 @@
-Image Classifier with TensorFlow
+#Image Classifier with TensorFlow
 
-Overview
+##Overview
 This project is a deep learning image classification model implemented in Python using TensorFlow. The model is designed to classify images into predefined categories based on the input images provided. This repository includes code for building, training, and evaluating the model, as well as utilities for preprocessing images.
 
 Features
